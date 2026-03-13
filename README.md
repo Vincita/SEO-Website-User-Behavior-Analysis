@@ -29,9 +29,9 @@ Một số chỉ số chính:
 ## 3. Công cụ sử dụng
 
 - Excel / Data Analysis
-- Data Visualization
-- SEO Analytics
-- Exploratory Data Analysis (EDA)
+- Python
+- VSCode
+- Power BI
 
 ---
 
